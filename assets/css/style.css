@@ -188,3 +188,14 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+.contact {
+    background-color: #024e76;
+    text-align: center;
+}
+.contact h2 {
+    color: #fce138;
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
