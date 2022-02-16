@@ -13,4 +13,4 @@ https://lernantino.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Trevor Mangahas
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
